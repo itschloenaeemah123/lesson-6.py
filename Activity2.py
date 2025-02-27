@@ -4,5 +4,5 @@ if num>=0:
         print(num,"is zero itself")
     else:
         print(num,"is positive number")
-    else:
+else:
         print(num,"is negative number")
